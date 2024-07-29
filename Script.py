@@ -8,7 +8,7 @@ class script(object):
     
 ɪ ᴀᴍ 【ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ】 ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ᴀᴜᴛᴏ ꜰɪʟᴛᴇʀ ʙᴏᴛ, ᴀɴᴅ ʙᴇꜱᴛ AI ᴘᴇʀꜰᴏʀᴍᴀɴᴄᴇ With Many Features</b>
 
-Hey I Will Only Provide HD/OTT ᴍᴏᴠɪᴇs HERE✨
+Hey I CAN Provide [HD/OTT] ᴍᴏᴠɪᴇs in HD Bot & [DVD/Theater] Movies In Piracy Bot✨
 BOT IS MADE BY :- @Sai_File_Store_CC :))"""
 
     CLONE_START_TXT = """<b><blockquote>ʜᴇʟʟᴏ {}, ᴍʏ ɴᴀᴍᴇ <a href=https://t.me/{}>{}</a></blockquote>
