@@ -39,7 +39,7 @@ async def song(client, message):
         views = results[0]["views"]
     except Exception as e:
         print(str(e))
-        return await m.edit("Example: /song vaa vaathi song")
+        return await m.edit("Example: /song Jigelu Rani Telugu song")
                 
     await m.edit("**dσwnlσαdíng чσur ѕσng...!**")
     try:
@@ -48,7 +48,7 @@ async def song(client, message):
             audio_file = ydl.prepare_filename(info_dict)
             ydl.process_info(info_dict)
 
-        cap = "**BY›› [VJ NETWORKS™](https://t.me/vj_bots)**"
+        cap = "**BY›› [Priya NETWORKS™](https://t.me/Sai_File_Store_CC)**"
         secmul, dur, dur_arr = 1, 0, duration.split(':')
         for i in range(len(dur_arr)-1, -1, -1):
             dur += (int(dur_arr[i]) * secmul)
@@ -89,7 +89,7 @@ async def vsong(client, message: Message):
     urlissed = get_text(message)
     pablo = await client.send_message(message.chat.id, f"**𝙵𝙸𝙽𝙳𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝚅𝙸𝙳𝙴𝙾** `{urlissed}`")
     if not urlissed:
-        return await pablo.edit("Example: /video Your video link")     
+        return await pablo.edit("Example: /video Your UTUBE video link")     
     search = SearchVideos(f"{urlissed}", offset=1, mode="dict", max_results=1)
     mi = search.result()
     mio = mi["search_result"]
