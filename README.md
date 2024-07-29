@@ -193,8 +193,8 @@ Edit info.py with variables as given below then run bot
  - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
  - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ) To Modify And Add Amazing Feature In The Repo
  - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
- - Thanks To All Everyone In This Journey
- - Thanks To [TEAM PRIYA](https://t.me/Sai_File_Store_CC) For Editing</b>
+ - Thanks To [TEAM PRIYA](https://t.me/Sai_File_Store_CC) For Editing
+ - Thanks To All Everyone In This Journey</b>
 
 ## Note 🏷️
  
