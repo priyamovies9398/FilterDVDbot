@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="Priya-Filter-Bot Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  PRIYA FILTER BOT
 </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
@@ -32,7 +32,7 @@
 - [x] Custom Tutorial Button
 - [x] Bot Pm File Auto Delete 
 
-Join My <a href='https://telegram.dog/vj_botz'>Update Channel</a> For More Update Regarding Repo.</b>
+Join My <a href='https://telegram.dog/Sai_File_Store_CC'>Update Channel</a> For More Update Regarding Repo.</b>
 
 ### How To Deploy : [Video Tutorial](https://youtu.be/J5tiWdc_AWM)
 
@@ -194,12 +194,13 @@ Edit info.py with variables as given below then run bot
  - Thanks To [Tech VJ](https://youtube.com/@Tech_VJ) To Modify And Add Amazing Feature In The Repo
  - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
  - Thanks To All Everyone In This Journey</b>
+ - Thanks To [TEAM PRIYA](https://t.me/Sai_File_Store_CC) For Editing
 
 ## Note 🏷️
  
-* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/KingVJ01)
+* [![Contact Developer](https://img.shields.io/static/v1?label=Contact+Developer&message=On+Telegram&color=critical)](https://telegram.me/Djreme)
 
-<b>[Note To A So Called Dev](https://telegram.dog/vj_botz): 
+<b>[Note To A So Called Dev](https://telegram.dog/PriyaMovis): 
 
 Fork The Repo And Edit As Per Your Needs.</b>
 
